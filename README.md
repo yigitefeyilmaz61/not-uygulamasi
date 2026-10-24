@@ -1,2 +1,1 @@
-Not Uygulamasi: Ilk projem
-Geliştirici: Yigit Efe Yilmaz (main versiyonu)
+Geliştirici: Yigit Efe Yilmaz
