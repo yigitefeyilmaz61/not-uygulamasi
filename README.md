@@ -1,0 +1,1 @@
+Not Uygulamasi: Ilk projem
