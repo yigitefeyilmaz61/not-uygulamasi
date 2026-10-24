@@ -1,0 +1,5 @@
+ls: listeler
+cd: klasore girer
+pwd: yolu gosterir
+mkdir: klasor acar
+clear: temizler
