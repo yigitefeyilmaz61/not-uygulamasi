@@ -3,3 +3,6 @@ cd: klasore girer
 pwd: yolu gosterir
 mkdir: klasor acar
 clear: temizler
+
+chmod: dosya izinlerini degistirir
+cat: dosya icerigini gosterir
